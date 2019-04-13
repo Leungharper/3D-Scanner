@@ -30,4 +30,3 @@ void loop()
     delay(time);
   }
 }
-

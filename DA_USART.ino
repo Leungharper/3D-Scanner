@@ -1,4 +1,5 @@
 // 通过（MATLAB）与arduino的串口通信控制DA模块
+//9号引脚输出50%方波，给DA模块时钟信号
 
 void setup()
 {

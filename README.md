@@ -1,2 +1,2 @@
-# 3D-printer
-A 3D-printer based on MATLAB &amp; arduino-UNO
+# 3D-scanner
+A 3D-scanner based on MATLAB &amp; arduino-UNO
